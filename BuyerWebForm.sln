@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyerWebForm", "BuyerWebForm\BuyerWebForm.csproj", "{DA00A226-470E-49C1-92A6-45C24CE842D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyerWebFormTests", "BuyerWebFormTests\BuyerWebFormTests.csproj", "{B83C3110-B5C5-4638-A158-F895817317D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA00A226-470E-49C1-92A6-45C24CE842D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA00A226-470E-49C1-92A6-45C24CE842D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA00A226-470E-49C1-92A6-45C24CE842D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA00A226-470E-49C1-92A6-45C24CE842D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B83C3110-B5C5-4638-A158-F895817317D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83C3110-B5C5-4638-A158-F895817317D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83C3110-B5C5-4638-A158-F895817317D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83C3110-B5C5-4638-A158-F895817317D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
